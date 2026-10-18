@@ -1,0 +1,6 @@
+{
+  "setup": {
+    "command": "bash .hoplite/setup.sh",
+    "enabled": true
+  }
+}
